@@ -3,55 +3,64 @@
     "swsh",
     "bdsp",
     "sv",
-    "lgpe"
+    "lgpe",
+    "za"
   ],
   "ivysaur": [
     "swsh",
     "bdsp",
     "sv",
-    "lgpe"
+    "lgpe",
+    "za"
   ],
   "venusaur": [
     "swsh",
     "bdsp",
     "sv",
-    "lgpe"
+    "lgpe",
+    "za"
   ],
   "charmander": [
     "swsh",
     "lgpe",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "charmeleon": [
     "swsh",
     "lgpe",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "charizard": [
     "swsh",
     "lgpe",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "squirtle": [
     "swsh",
     "lgpe",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "wartortle": [
     "swsh",
     "lgpe",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "blastoise": [
     "swsh",
     "lgpe",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "caterpie": [
     "lgpe",
@@ -70,27 +79,33 @@
   ],
   "weedle": [
     "lgpe",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "kakuna": [
     "lgpe",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "beedrill": [
     "bdsp",
-    "lgpe"
+    "lgpe",
+    "za"
   ],
   "pidgey": [
     "lgpe",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "pidgeotto": [
     "lgpe",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "pidgeot": [
     "lgpe",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "rattata": [
     "bdsp",
@@ -111,26 +126,30 @@
   "ekans": [
     "lgpe",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "arbok": [
     "lgpe",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "pikachu": [
     "swsh",
     "lgpe",
     "sv",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "raichu": [
     "swsh",
     "lgpe",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "sandshrew": [
     "lgpe",
@@ -179,14 +198,16 @@
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "clefable": [
     "lgpe",
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "vulpix": [
     "lgpe",
@@ -346,52 +367,61 @@
     "swsh",
     "lgpe",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "kadabra": [
     "swsh",
     "lgpe",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "alakazam": [
     "swsh",
     "lgpe",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "machop": [
     "lgpe",
     "swsh",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "machoke": [
     "lgpe",
     "swsh",
     "pla",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "machamp": [
     "lgpe",
     "swsh",
     "pla",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "bellsprout": [
     "bdsp",
     "sv",
-    "lgpe"
+    "lgpe",
+    "za"
   ],
   "weepinbell": [
     "bdsp",
     "sv",
-    "lgpe"
+    "lgpe",
+    "za"
   ],
   "victreebel": [
     "lgpe",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "tentacool": [
     "swsh",
@@ -441,13 +471,15 @@
     "lgpe",
     "swsh",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "slowbro": [
     "swsh",
     "lgpe",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "magnemite": [
     "lgpe",
@@ -515,27 +547,31 @@
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "haunter": [
     "lgpe",
     "swsh",
     "sv",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "gengar": [
     "swsh",
     "lgpe",
     "sv",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "onix": [
     "lgpe",
     "swsh",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "drowzee": [
     "lgpe",
@@ -649,7 +685,8 @@
   "kangaskhan": [
     "swsh",
     "bdsp",
-    "lgpe"
+    "lgpe",
+    "za"
   ],
   "horsea": [
     "lgpe",
@@ -676,12 +713,14 @@
   "staryu": [
     "lgpe",
     "swsh",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "starmie": [
     "lgpe",
     "swsh",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "mrmime": [
     "lgpe",
@@ -706,7 +745,8 @@
     "swsh",
     "bdsp",
     "pla",
-    "sv"
+    "sv",
+    "za"
   ],
   "jynx": [
     "lgpe",
@@ -730,7 +770,8 @@
   "pinsir": [
     "lgpe",
     "swsh",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "tauros": [
     "lgpe",
@@ -743,14 +784,16 @@
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "gyarados": [
     "lgpe",
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "lapras": [
     "lgpe",
@@ -769,28 +812,32 @@
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "vaporeon": [
     "lgpe",
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "jolteon": [
     "lgpe",
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "flareon": [
     "lgpe",
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "porygon": [
     "lgpe",
@@ -822,7 +869,8 @@
   "aerodactyl": [
     "lgpe",
     "swsh",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "snorlax": [
     "swsh",
@@ -853,19 +901,22 @@
     "lgpe",
     "swsh",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "dragonair": [
     "lgpe",
     "swsh",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "dragonite": [
     "swsh",
     "lgpe",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "mewtwo": [
     "swsh",
@@ -881,15 +932,18 @@
   ],
   "chikorita": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "bayleef": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "meganium": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "cyndaquil": [
     "bdsp",
@@ -907,15 +961,18 @@
   ],
   "totodile": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "croconaw": [
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "feraligatr": [
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "sentret": [
     "sv",
@@ -943,11 +1000,13 @@
   ],
   "spinarak": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "ariados": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "crobat": [
     "pla",
@@ -968,13 +1027,15 @@
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "cleffa": [
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "igglybuff": [
     "swsh",
@@ -1001,15 +1062,18 @@
   ],
   "mareep": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "flaaffy": [
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "ampharos": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "bellossom": [
     "swsh",
@@ -1081,13 +1145,15 @@
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "umbreon": [
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "murkrow": [
     "bdsp",
@@ -1097,7 +1163,8 @@
   "slowking": [
     "swsh",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "misdreavus": [
     "bdsp",
@@ -1137,7 +1204,8 @@
   "steelix": [
     "bdsp",
     "swsh",
-    "pla"
+    "pla",
+    "za"
   ],
   "snubbull": [
     "sv",
@@ -1156,7 +1224,8 @@
     "swsh",
     "bdsp",
     "pla",
-    "sv"
+    "sv",
+    "za"
   ],
   "shuckle": [
     "swsh",
@@ -1166,7 +1235,8 @@
     "swsh",
     "bdsp",
     "pla",
-    "sv"
+    "sv",
+    "za"
   ],
   "sneasel": [
     "swsh",
@@ -1221,7 +1291,8 @@
   "delibird": [
     "swsh",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "mantine": [
     "swsh",
@@ -1231,15 +1302,18 @@
   "skarmory": [
     "swsh",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "houndour": [
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "houndoom": [
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "kingdra": [
     "swsh",
@@ -1332,17 +1406,20 @@
   "larvitar": [
     "swsh",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "pupitar": [
     "swsh",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "tyranitar": [
     "swsh",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "lugia": [
     "swsh",
@@ -1489,19 +1566,22 @@
     "swsh",
     "sv",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "kirlia": [
     "swsh",
     "sv",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "gardevoir": [
     "swsh",
     "sv",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "surskit": [
     "sv",
@@ -1582,39 +1662,48 @@
   "sableye": [
     "swsh",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "mawile": [
     "swsh",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "aron": [
     "bdsp",
-    "swsh"
+    "swsh",
+    "za"
   ],
   "lairon": [
     "bdsp",
-    "swsh"
+    "swsh",
+    "za"
   ],
   "aggron": [
     "swsh",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "meditite": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "medicham": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "electrike": [
     "swsh",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "manectric": [
     "swsh",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "plusle": [
     "sv",
@@ -1635,7 +1724,8 @@
   "roselia": [
     "swsh",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "gulpin": [
     "bdsp",
@@ -1647,11 +1737,13 @@
   ],
   "carvanha": [
     "swsh",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "sharpedo": [
     "swsh",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "wailmer": [
     "swsh",
@@ -1663,11 +1755,13 @@
   ],
   "numel": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "camerupt": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "torkoal": [
     "swsh",
@@ -1711,12 +1805,14 @@
   "swablu": [
     "swsh",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "altaria": [
     "swsh",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "zangoose": [
     "sv",
@@ -1798,11 +1894,13 @@
   ],
   "shuppet": [
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "banette": [
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "duskull": [
     "swsh",
@@ -1827,7 +1925,8 @@
   ],
   "absol": [
     "swsh",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "wynaut": [
     "swsh",
@@ -1837,13 +1936,15 @@
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "glalie": [
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "spheal": [
     "swsh",
@@ -1880,32 +1981,38 @@
   "bagon": [
     "bdsp",
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "shelgon": [
     "bdsp",
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "salamence": [
     "bdsp",
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "beldum": [
     "swsh",
     "bdsp",
-    "sv"
+    "sv",
+    "za"
   ],
   "metang": [
     "swsh",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "metagross": [
     "swsh",
     "sv",
-    "bdsp"
+    "bdsp",
+    "za"
   ],
   "regirock": [
     "swsh",
@@ -2055,12 +2162,14 @@
   "budew": [
     "swsh",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "roserade": [
     "swsh",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "cranidos": [
     "sv",
@@ -2175,12 +2284,14 @@
   "buneary": [
     "swsh",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "lopunny": [
     "swsh",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "mismagius": [
     "bdsp",
@@ -2265,19 +2376,22 @@
     "sv",
     "bdsp",
     "swsh",
-    "pla"
+    "pla",
+    "za"
   ],
   "gabite": [
     "sv",
     "bdsp",
     "swsh",
-    "pla"
+    "pla",
+    "za"
   ],
   "garchomp": [
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "munchlax": [
     "swsh",
@@ -2289,25 +2403,29 @@
     "swsh",
     "sv",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "lucario": [
     "swsh",
     "sv",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "hippopotas": [
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "hippowdon": [
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "skorupi": [
     "swsh",
@@ -2354,13 +2472,15 @@
     "swsh",
     "sv",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "abomasnow": [
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "weavile": [
     "swsh",
@@ -2416,13 +2536,15 @@
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "glaceon": [
     "swsh",
     "bdsp",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "gliscor": [
     "bdsp",
@@ -2445,7 +2567,8 @@
     "swsh",
     "sv",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "probopass": [
     "sv",
@@ -2462,7 +2585,8 @@
     "swsh",
     "sv",
     "bdsp",
-    "pla"
+    "pla",
+    "za"
   ],
   "rotom": [
     "swsh",
@@ -2562,13 +2686,16 @@
     "sv"
   ],
   "tepig": [
-    "sv"
+    "sv",
+    "za"
   ],
   "pignite": [
-    "sv"
+    "sv",
+    "za"
   ],
   "emboar": [
-    "sv"
+    "sv",
+    "za"
   ],
   "oshawott": [
     "pla",
@@ -2581,8 +2708,12 @@
   "samurott": [
     "sv"
   ],
-  "patrat": [],
-  "watchog": [],
+  "patrat": [
+    "za"
+  ],
+  "watchog": [
+    "za"
+  ],
   "lillipup": [
     "swsh"
   ],
@@ -2598,12 +2729,24 @@
   "liepard": [
     "swsh"
   ],
-  "pansage": [],
-  "simisage": [],
-  "pansear": [],
-  "simisear": [],
-  "panpour": [],
-  "simipour": [],
+  "pansage": [
+    "za"
+  ],
+  "simisage": [
+    "za"
+  ],
+  "pansear": [
+    "za"
+  ],
+  "simisear": [
+    "za"
+  ],
+  "panpour": [
+    "za"
+  ],
+  "simipour": [
+    "za"
+  ],
   "munna": [
     "swsh"
   ],
@@ -2642,14 +2785,17 @@
   ],
   "drilbur": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "excadrill": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "audino": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "timburr": [
     "swsh",
@@ -2688,13 +2834,16 @@
     "sv"
   ],
   "venipede": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "whirlipede": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "scolipede": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "cottonee": [
     "swsh",
@@ -2719,15 +2868,18 @@
   ],
   "sandile": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "krokorok": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "krookodile": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "darumaka": [
     "swsh"
@@ -2746,11 +2898,13 @@
   ],
   "scraggy": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "scrafty": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "sigilyph": [
     "swsh"
@@ -2774,10 +2928,12 @@
     "swsh"
   ],
   "trubbish": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "garbodor": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "zorua": [
     "swsh",
@@ -2826,13 +2982,16 @@
     "sv"
   ],
   "vanillite": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "vanillish": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "vanilluxe": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "deerling": [
     "sv"
@@ -2841,7 +3000,8 @@
     "sv"
   ],
   "emolga": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "karrablast": [
     "swsh"
@@ -2890,13 +3050,16 @@
     "swsh"
   ],
   "tynamo": [
-    "sv"
+    "sv",
+    "za"
   ],
   "eelektrik": [
-    "sv"
+    "sv",
+    "za"
   ],
   "eelektross": [
-    "sv"
+    "sv",
+    "za"
   ],
   "elgyem": [
     "swsh"
@@ -2906,15 +3069,18 @@
   ],
   "litwick": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "lampent": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "chandelure": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "axew": [
     "swsh",
@@ -2947,7 +3113,8 @@
     "swsh"
   ],
   "stunfisk": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "mienfoo": [
     "swsh",
@@ -3034,12 +3201,12 @@
     "swsh",
     "sv"
   ],
-    "tornadus": [
+  "tornadus": [
     "swsh",
     "sv",
     "pla"
   ],
-    "thundurus": [
+  "thundurus": [
     "swsh",
     "sv",
     "pla"
@@ -3052,8 +3219,7 @@
     "swsh",
     "sv"
   ],
-
-    "landorus": [
+  "landorus": [
     "swsh",
     "sv",
     "pla"
@@ -3073,230 +3239,298 @@
     "swsh"
   ],
   "chespin": [
-    "sv"
+    "sv",
+    "za"
   ],
   "quilladin": [
-    "sv"
+    "sv",
+    "za"
   ],
   "chesnaught": [
-    "sv"
+    "sv",
+    "za"
   ],
   "fennekin": [
-    "sv"
+    "sv",
+    "za"
   ],
   "braixen": [
-    "sv"
+    "sv",
+    "za"
   ],
   "delphox": [
-    "sv"
+    "sv",
+    "za"
   ],
   "froakie": [
-    "sv"
+    "sv",
+    "za"
   ],
   "frogadier": [
-    "sv"
+    "sv",
+    "za"
   ],
   "greninja": [
-    "sv"
+    "sv",
+    "za"
   ],
   "bunnelby": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "diggersby": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "fletchling": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "fletchinder": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "talonflame": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "scatterbug": [
-    "sv"
+    "sv",
+    "za"
   ],
   "spewpa": [
-    "sv"
+    "sv",
+    "za"
   ],
   "vivillon": [
-    "sv"
+    "sv",
+    "za"
   ],
   "litleo": [
-    "sv"
+    "sv",
+    "za"
   ],
   "pyroar": [
-    "sv"
+    "sv",
+    "za"
   ],
   "flabebe": [
-    "sv"
+    "sv",
+    "za"
   ],
   "floette": [
-    "sv"
+    "sv",
+    "za"
   ],
   "florges": [
-    "sv"
+    "sv",
+    "za"
   ],
   "skiddo": [
-    "sv"
+    "sv",
+    "za"
   ],
   "gogoat": [
-    "sv"
+    "sv",
+    "za"
   ],
   "pancham": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "pangoro": [
-    "swsh"
+    "swsh",
+    "za"
   ],
-  "furfrou": [],
+  "furfrou": [
+    "za"
+  ],
   "espurr": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "honedge": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "doublade": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "aegislash": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "spritzee": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "aromatisse": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "swirlix": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "slurpuff": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "inkay": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "malamar": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "binacle": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "barbaracle": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "skrelp": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "dragalge": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "clauncher": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "clawitzer": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "helioptile": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "heliolisk": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "tyrunt": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "tyrantrum": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "amaura": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "aurorus": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "sylveon": [
     "swsh",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "hawlucha": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "dedenne": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "carbink": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "goomy": [
     "swsh",
     "sv",
-    "pla"
+    "pla",
+    "za"
   ],
   "sliggoo": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "goodra": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "klefki": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "phantump": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "trevenant": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "pumpkaboo": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "gourgeist": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "bergmite": [
     "swsh",
     "pla",
-    "sv"
+    "sv",
+    "za"
   ],
   "avalugg": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "noibat": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "noivern": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "xerneas": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "yveltal": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "zygarde-50": [
     "swsh"
@@ -3527,7 +3761,8 @@
     "sv"
   ],
   "drampa": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "dhelmise": [
     "swsh"
@@ -3836,10 +4071,10 @@
   "mr-rime": [
     "swsh"
   ],
-   "mrrime": [
+  "mrrime": [
     "swsh"
   ],
-   "mr. rime": [
+  "mr. rime": [
     "swsh"
   ],
   "runerigus": [
@@ -3855,7 +4090,8 @@
   ],
   "falinks": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "pincurchin": [
     "swsh",
@@ -3877,7 +4113,7 @@
     "swsh",
     "sv"
   ],
-   "eiscue": [
+  "eiscue": [
     "swsh",
     "sv"
   ],
@@ -3885,7 +4121,7 @@
     "swsh",
     "sv"
   ],
-   "indeedee": [
+  "indeedee": [
     "swsh",
     "sv"
   ],
@@ -4001,7 +4237,7 @@
     "sv",
     "pla"
   ],
-    "enamorus": [
+  "enamorus": [
     "sv",
     "pla"
   ],
@@ -4086,7 +4322,7 @@
   "squawkabilly-green-plumage": [
     "sv"
   ],
-   "squawkabilly": [
+  "squawkabilly": [
     "sv"
   ],
   "nacli": [
@@ -4378,7 +4614,7 @@
     "sv",
     "bdsp"
   ],
-    "deoxys": [
+  "deoxys": [
     "sv",
     "bdsp"
   ],
@@ -4464,9 +4700,10 @@
     "swsh",
     "sv"
   ],
-    "meowstic": [
+  "meowstic": [
     "swsh",
-    "sv"
+    "sv",
+    "za"
   ],
   "venusaur-mega": [
     "lgpe"
@@ -4859,7 +5096,8 @@
     "swsh"
   ],
   "zygarde": [
-    "swsh"
+    "swsh",
+    "za"
   ],
   "cramorant-gulping": [
     "swsh"
@@ -5085,7 +5323,7 @@
     "sv"
   ],
   "enamorus-therian": [
-     "sv",
+    "sv",
     "pla"
   ],
   "tauros-paldea-combat-breed": [
@@ -5106,7 +5344,7 @@
   "oinkologne-female": [
     "sv"
   ],
-   "oinkologne": [
+  "oinkologne": [
     "sv"
   ],
   "dudunsparce-three-segment": [
