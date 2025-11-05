@@ -4832,6 +4832,7 @@
   "raichu-alola": [
     "swsh",
     "lgpe",
+    "za",
     "sv"
   ],
   "sandshrew-alola": [
@@ -5030,10 +5031,12 @@
   ],
   "slowpoke-galar": [
     "swsh",
+    "za",
     "sv"
   ],
   "slowbro-galar": [
     "swsh",
+    "za",
     "sv"
   ],
   "farfetchd-galar": [
@@ -5066,6 +5069,7 @@
   ],
   "slowking-galar": [
     "swsh",
+    "za",
     "sv"
   ],
   "corsola-galar": [
